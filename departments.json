@@ -1,0 +1,20 @@
+{
+  "departments": [
+    "AICU",
+    "Cath Lab",
+    "CCU",
+    "ECMO",
+    "ED",
+    "ICU",
+    "ITU/HDU",
+    "Maternity Unit",
+    "Neonatal Unit",
+    "Nursery",
+    "NICU",
+    "PICU",
+    "PCICU",
+    "Theatres",
+    "Trent Cardiac Centre (NCH)",
+    "Ward 33A (NCH)"
+  ]
+}
