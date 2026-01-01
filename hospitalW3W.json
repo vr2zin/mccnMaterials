@@ -1,0 +1,22 @@
+[
+  {
+    "hospital": "LRI",
+    "department": "NICU",
+    "w3w": "w3w://show?threewords=taken.feeds.loves"
+  },
+  {
+    "hospital": "LRI",
+    "department": "ED",
+    "w3w": "w3w://show?threewords=stages.splice.rear"
+  },
+  {
+    "hospital": "Glenfield",
+    "department": "ECMO",
+    "w3w": "w3w://show?threewords=flash.pencil.stow"
+  },
+  {
+    "hospital": "Glenfield",
+    "department": "Ward 33A",
+    "w3w": "w3w://show?threewords=caged.firms.forced"
+  }
+]
