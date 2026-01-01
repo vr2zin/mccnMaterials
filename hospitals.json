@@ -1,11 +1,11 @@
 {
-  "hospitals": {
+  "hospitals": [
     "Castle Donington",
-    "Addenbrooke Hosp",
+    "Addenbrooke's Hosp",
     "Bassetlaw Hosp",
-    "Birmingham Children",
-    "Birmingham Woman",
-    "Bristol Childrens",
+    "Birmingham Children's",
+    "Birmingham Woman's",
+    "Bristol Children's",
     "Castle Hill Hosp",
     "Chesterfield",
     "County Hosp",
@@ -62,5 +62,5 @@
     "Warwick Hosp",
     "Worcestershire Royal Hosp",
     "York Hosp"
-  }
+  ]
 }
