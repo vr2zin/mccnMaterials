@@ -1,2 +1,2 @@
-# mccnvehicle
-SJ vehicle reg and callsign for MCCN
+# MCCN Materials
+All materials for SJ MCCN mini project
