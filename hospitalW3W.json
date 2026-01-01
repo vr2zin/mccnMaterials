@@ -1,21 +1,21 @@
 [
   {
-    "hospital": "LRI",
+    "hospital": "Leicester Royal Infirmary",
     "department": "NICU",
     "w3w": "w3w://show?threewords=taken.feeds.loves"
   },
   {
-    "hospital": "LRI",
+    "hospital": "Leicester Royal Infirmary",
     "department": "ED",
     "w3w": "w3w://show?threewords=stages.splice.rear"
   },
   {
-    "hospital": "Glenfield",
+    "hospital": "Glenfield Hosp",
     "department": "ECMO",
     "w3w": "w3w://show?threewords=flash.pencil.stow"
   },
   {
-    "hospital": "Glenfield",
+    "hospital": "Glenfield Hosp",
     "department": "Ward 33A",
     "w3w": "w3w://show?threewords=caged.firms.forced"
   }
