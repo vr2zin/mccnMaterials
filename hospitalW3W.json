@@ -1,8 +1,13 @@
 [
   {
+    "hospital": "Castle Donington",
+    "department": "",
+    "w3w": "howler.radiates.spaceship",
+  }
+  {
     "hospital": "Leicester Royal Infirmary",
     "department": "NICU",
-    "w3w": "w3w://show?threewords=taken.feeds.loves"
+    "w3w": "taken.feeds.loves"
   },
   {
     "hospital": "Leicester Royal Infirmary",
