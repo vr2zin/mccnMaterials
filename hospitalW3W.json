@@ -10,6 +10,16 @@
     "w3w": "w3w://show?threewords=stages.splice.rear"
   },
   {
+    "hospital": "Leicester Royal Infirmary",
+    "department": "PICU",
+    "w3w": ""
+  },
+  {
+    "hospital": "Leicester Royal Infirmary",
+    "department": "ITU",
+    "w3w": ""
+  },
+  {
     "hospital": "Glenfield Hosp",
     "department": "ECMO",
     "w3w": "w3w://show?threewords=flash.pencil.stow"
