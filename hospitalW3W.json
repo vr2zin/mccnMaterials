@@ -1,13 +1,23 @@
 [
   {
-    "hospital": "Castle Donington",
+    "hospital": "Castle Donington (SJCD)",
     "department": "Base",
     "w3w": "howler.radiates.spaceship"
   },
   {
+    "hospital": "Acorns Children's Hospice (OTH)",
+    "department": "Main entrance",
+    "w3w": "pill.marked.twin"
+  },
+  {
     "hospital": "Addenbrooke's (ADD)",
-    "department": "Resp unit",
-    "w3w": "pest.useful.drill"
+    "department": "Neonatal (Resp Unit)",
+    "w3w": "elbow.lamp.pest"
+  },
+  {
+    "hospital": "Alder Hey Children's (ALD)",
+    "department": "ED/PICU/NEO",
+    "w3w": "fear.takes.bills"
   },
   {
     "hospital": "Bassetlaw Hosp",
@@ -150,7 +160,7 @@
     "w3w": "lovely.stocks.dent"
   },
   {
-    "hospital": "Hull Royal Infirmary",
+    "hospital": "Hull Royal Infirmary (HRI)",
     "department": "Women and child",
     "w3w": "envy.power.invite"
   },
@@ -255,8 +265,8 @@
     "w3w": "form.defend.sculpture"
   },
   {
-    "hospital": "Liverpool Hosp",
-    "department": "Heart and chest",
+    "hospital": "Liverpool Heart and Chest",
+    "department": "Entrance",
     "w3w": "hardly.along.note"
   },
   {
