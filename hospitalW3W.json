@@ -31,22 +31,22 @@
   },
   {
     "hospital": "Birmingham Children (BCH)",
-    "department": "Temporary",
+    "department": "*Temporary",
     "w3w": "unfair.task.diner"
   },
   {
     "hospital": "Queen Elizabeth Birmingham (QEB)",
-    "department": "ED",
+    "department": "*ED",
     "w3w": "last.risen.tribes"
   },
   {
     "hospital": "Birmingham Women's (BWH)",
-    "department": "",
+    "department": "*Entrance",
     "w3w": "remark.newest.sung"
   },
   {
     "hospital": "Bristol Children's",
-    "department": "PICU",
+    "department": "*PICU",
     "w3w": "tubes.thick.star"
   },
   {
@@ -56,17 +56,17 @@
   },
   {
     "hospital": "Chesterfield Royal Hosp",
-    "department": "ED",
+    "department": "*ED",
     "w3w": "bath.reject.final"
   },
   {
     "hospital": "Chesterfield Royal Hosp",
-    "department": "Neonatal",
+    "department": "*Neonatal",
     "w3w": "hugs.swan.soil"
   },
   {
     "hospital": "Chesterfield Royal Hosp",
-    "department": "Main entrance",
+    "department": "*Main entrance",
     "w3w": "lights.when.volume"
   },
   {
@@ -76,18 +76,18 @@
   },
   {
     "hospital": "Coventry and Warwickshire (UHCW)",
-    "department": "ED",
+    "department": "*ED",
     "w3w": "cards.plays.calls"
   },
   {
     "hospital": "Coventry and Warwickshire (UHCW)",
-    "department": "Neonatal",
+    "department": "*Neonatal",
     "w3w": "port.bolt.moving"
   },
   {
     "hospital": "Coventry and Warwickshire (UHCW)",
-    "department": "ED",
-    "w3w": "funds.brains.fluid"
+    "department": "*Main entrance",
+    "w3w": "toward.drive.rather"
   },
   {
     "hospital": "Diana Princess of Wales (DPW)",
@@ -106,27 +106,27 @@
   },
   {
     "hospital": "East Midlands Airport (EMA)",
-    "department": "Gate 1",
+    "department": "*Gate 1",
     "w3w": "galloped.unfilled.coconuts"
   },
   {
     "hospital": "East Midlands Airport (EMA)",
-    "department": "EMA pickup (fixed wing?)",
+    "department": "*EMA pickup (fixed wing?)",
     "w3w": "hung.limelight.cleanest"
   },
   {
     "hospital": "George Eliot Hosp (GEH)",
-    "department": "Neonatal",
+    "department": "*Neonatal",
     "w3w": "magic.hoping.indoor"
   },
   {
     "hospital": "Glenfield Hosp (GLE)",
-    "department": "ECMO",
+    "department": "*ECMO",
     "w3w": "flash.pencil.stow"
   },
   {
     "hospital": "Glenfield Hosp (GLE)",
-    "department": "Ward 33A",
+    "department": "*Ward 33A",
     "w3w": "caged.firms.forced"
   },
   {
@@ -146,17 +146,17 @@
   },
   {
     "hospital": "Great Ormond Street Hosp (GOSH)",
-    "department": "PICU",
+    "department": "*PICU",
     "w3w": "sits.rivers.wallet"
   },
   {
     "hospital": "Heartlands Hosp Birmingham (EBH)",
-    "department": "ED",
+    "department": "*ED",
     "w3w": "cable.play.actors"
   },
   {
     "hospital": "Heartlands Hosp Birmingham (EBH)",
-    "department": "NICU",
+    "department": "*NICU",
     "w3w": "lovely.stocks.dent"
   },
   {
@@ -166,97 +166,92 @@
   },
   {
     "hospital": "John Radcliffe Oxford (JRC)",
-    "department": "ED",
+    "department": "*ED",
     "w3w": "beard.broke.topic"
   },
   {
     "hospital": "John Radcliffe Oxford (JRC)",
-    "department": "ITU/ICU",
+    "department": "*ITU/ICU",
     "w3w": "baked.rival.froth"
   },
   {
     "hospital": "John Radcliffe Oxford (JRC)",
-    "department": "New born care/Neonatal",
+    "department": "*New born care/Neonatal",
     "w3w": "deals.wedge.soccer"
   },
   {
     "hospital": "Kettering General Hosp (KGH)",
-    "department": "ED",
+    "department": "*ED",
     "w3w": "become.mental.report"
   },
   {
     "hospital": "Kettering General Hosp (KGH)",
-    "department": "Neonatal",
+    "department": "*Neonatal",
     "w3w": "cult.costs.change"
   },
   {
     "hospital": "Kettering General Hosp (KGH)",
-    "department": "PICU",
+    "department": "*PICU",
     "w3w": "toward.windy.normal"
   },
   {
     "hospital": "Queen Elizabeth Kings Lynn (QEKL)",
-    "department": "Main entrance",
+    "department": "*Main entrance",
     "w3w": "jubilant.motor.lost"
   },
   {
     "hospital": "Kings Mill Hosp (KMH)",
-    "department": "ITU",
+    "department": "*ITU",
     "w3w": "dishes.take.silver"
   },
   {
     "hospital": "Kings Mill Hosp (KMH)",
-    "department": "Women and child",
+    "department": "*Women and child",
     "w3w": "thin.medium.helps"
   },
   {
     "hospital": "Leicester General Hosp (LGH)",
-    "department": "NICU",
+    "department": "*NICU",
     "w3w": "mugs.human.cure"
   },
   {
     "hospital": "Leicester Royal Infirmary (LGH)",
-    "department": "ED",
+    "department": "*ED",
     "w3w": "stages.splice.rear"
   },
   {
     "hospital": "Leicester Royal Infirmary (LRI)",
-    "department": "ITU",
+    "department": "*ITU/PICU",
     "w3w": "goods.care.river"
   },
   {
     "hospital": "Leicester Royal Infirmary (LRI)",
-    "department": "NICU",
+    "department": "*NICU",
     "w3w": "taken.feeds.loves"
   },
   {
-    "hospital": "Leicester Royal Infirmary (LRI)",
-    "department": "ITU/PICU",
-    "w3w": ""
-  },
-  {
     "hospital": "Lincoln County Hosp (LCH)",
-    "department": "PICU (Rainforest/Lancaster/Ashby)",
+    "department": "*PICU (Rainforest/Lancaster/Ashby)",
     "w3w": "image.spent.silver"
   },
   {
     "hospital": "Lincoln County Hosp (LCH)",
-    "department": "ED",
+    "department": "*ED",
     "w3w": "apron.races.leap"
   },
   {
     "hospital": "Lincoln County Hosp (LCH)",
-    "department": "Heart centre",
+    "department": "*Heart centre",
     "w3w": "cases.vouch.above"
   },
   {
     "hospital": "Lincoln County Hosp (LCH)",
-    "department": "ITU",
+    "department": "*ITU",
     "w3w": "shaped.strong.await"
   },
   {
     "hospital": "Lincoln County Hosp (LCH)",
-    "department": "Maternity",
+    "department": "*Maternity",
     "w3w": "pushed.pays.port"
   },
   {
@@ -271,17 +266,17 @@
   },
   {
     "hospital": "Luton & Dunstable University Hosp (LDUH)",
-    "department": "Maternity",
+    "department": "*Maternity",
     "w3w": "market.assist.engage"
   },
   {
     "hospital": "Luton & Dunstable University Hosp (LDUH)",
-    "department": "Neonatal",
+    "department": "*Neonatal",
     "w3w": "shave.yards.print"
   },
   {
     "hospital": "Manchester Royal Infirmary (MRI)",
-    "department": "Children",
+    "department": "*Children",
     "w3w": "retain.luck.liver"
   },
   {
@@ -296,52 +291,52 @@
   },
   {
     "hospital": "Nottingham City Hosp (NCH)",
-    "department": "ACU/Carrel (South entrance)",
+    "department": "*ACU/Carrel (South entrance)",
     "w3w": "calculating.duke.again"
   },
   {
     "hospital": "Nottingham City Hosp (NCH)",
-    "department": "ITU/ICU (North entrance)",
+    "department": "*ITU/ICU (North entrance)",
     "w3w": "toast.usual.along"
   },
   {
     "hospital": "Nottingham City Hosp (NCH)",
-    "department": "NICU",
+    "department": "*NICU",
     "w3w": "baking.power.unwanted"
   },
   {
     "hospital": "Nottingham City Hosp (NCH)",
-    "department": "Trent Cardiac centre",
+    "department": "*Trent Cardiac centre",
     "w3w": "shell.cable.zoom"
   },
   {
     "hospital": "New Cross Hosp (NCR)",
-    "department": "Heart Centre",
+    "department": "*Heart Centre",
     "w3w": "bliss.misty.amused"
   },
   {
     "hospital": "Northampton General Hosp (NTH)",
-    "department": "CCU",
+    "department": "*CCU",
     "w3w": "nests.plays.eagle"
   },
   {
     "hospital": "Northampton General Hosp (NTH)",
-    "department": "ED",
+    "department": "*ED",
     "w3w": "neon.years.hooked"
   },
   {
     "hospital": "Northampton General Hosp (NTH)",
-    "department": "Neonatal",
+    "department": "*Neonatal",
     "w3w": "rank.doctor.rope"
   },
   {
     "hospital": "Northern General Hosp",
-    "department": "Cath Lab",
+    "department": "*Cath Lab",
     "w3w": "charm.porch.advice"
   },
   {
     "hospital": "Northumbria Specialist",
-    "department": "Theatre/CCU",
+    "department": "*Theatre/CCU",
     "w3w": "tell.handed.table"
   },
   {
@@ -356,17 +351,17 @@
   },
   {
     "hospital": "Pilgrim Hosp Boston (PIL)",
-    "department": "ICU/PICU/NICU",
+    "department": "*ICU/PICU/NICU",
     "w3w": "swing.trails.last"
   },
   {
     "hospital": "Pilgrim Hosp Boston (PIL)",
-    "department": "ED",
+    "department": "*ED",
     "w3w": "woes.humble.hurry"
   },
   {
     "hospital": "Pilgrim Hosp Boston (PIL)",
-    "department": "Main entrance",
+    "department": "*Main entrance",
     "w3w": "cones.voices.limbs"
   },
   {
@@ -376,37 +371,37 @@
   },
   {
     "hospital": "Queens Medical Centre (QMC)",
-    "department": "Main entrance",
+    "department": "*Main entrance",
     "w3w": "monks.riots.puzzle"
   },
   {
     "hospital": "Queen's Hosp Burton (BUR)",
-    "department": "ED",
+    "department": "*ED",
     "w3w": "pace.stale.heap"
   },
   {
     "hospital": "Rainbows Hospice",
-    "department": "",
+    "department": "Entrance",
     "w3w": "apaces.tailwind.master"
   },
   {
     "hospital": "Royal Derby Hosp (RDH)",
-    "department": "PICU",
+    "department": "*PICU",
     "w3w": "rare.only.vouch"
   },
   {
     "hospital": "Royal Derby Hosp (RDH)",
-    "department": "ITU/ICU",
+    "department": "*ITU/ICU",
     "w3w": "moving.mile.weedy"
   },
   {
     "hospital": "Royal Derby Hosp (RDH)",
-    "department": "NICU",
+    "department": "*NICU",
     "w3w": "stops.match.talked"
   },
   {
     "hospital": "Royal Hallamshire Hosp",
-    "department": "Main entrance",
+    "department": "*Main entrance",
     "w3w": "splash.prefer.snap"
   },
   {
@@ -421,7 +416,7 @@
   },
   {
     "hospital": "Royal Stoke University Hosp (RSUH)",
-    "department": "Main entrance/PICU",
+    "department": "*Main entrance/PICU",
     "w3w": "stras.pilots.shaky"
   },
   {
@@ -441,27 +436,27 @@
   },
   {
     "hospital": "Sheffield Children's Hosp",
-    "department": "Main entrance",
+    "department": "*Main entrance",
     "w3w": "stop.hangs.shows"
   },
   {
     "hospital": "Sheffield Jessops Hosp (JESS)",
-    "department": "Maternity",
+    "department": "*Maternity",
     "w3w": "enable.moods.sofa"
   },
   {
     "hospital": "St Georges's Hosp (STGH)",
-    "department": "Neonatal",
+    "department": "*Neonatal",
     "w3w": "crops.speech.incomes"
   },
   {
     "hospital": "Stoke Mandeville Hosp (SMVH)",
-    "department": "ED/ITU/HDU",
+    "department": "*ED/ITU/HDU",
     "w3w": "liner.taped.relate"
   },
   {
     "hospital": "Stoke Mandeville Hosp (SMVH)",
-    "department": "Main entrance",
+    "department": "*Main entrance",
     "w3w": "either.snow.repay"
   },
   {
@@ -471,12 +466,12 @@
   },
   {
     "hospital": "Tunbridge Wells Hospital",
-    "department": "Women/Child/Neonatal",
+    "department": "*Women/Child/Neonatal",
     "w3w": "slam.sunset.allows"
   },
   {
     "hospital": "Warwick Hospital (WARW)",
-    "department": "ED/NICU",
+    "department": "*ED/NICU",
     "w3w": "soil.fever.gates"
   },
   {
@@ -486,12 +481,12 @@
   },
   {
     "hospital": "Worcester Royal Hosp (WRC)",
-    "department": "Neonatal",
+    "department": "*Neonatal",
     "w3w": "smoke.vital.remedy"
   },
   {
     "hospital": "Worcester Royal Hosp (WRC)",
-    "department": "ED",
+    "department": "*ED",
     "w3w": "stuff.survey.energetic"
   },
   {
