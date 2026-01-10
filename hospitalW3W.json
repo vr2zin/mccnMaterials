@@ -11,7 +11,7 @@
   },
   {
     "hospital": "Addenbrooke's (ADD)",
-    "department": "Neonatal (Resp Unit)",
+    "department": "Neonatal",
     "w3w": "elbow.lamp.pest"
   },
   {
@@ -23,6 +23,11 @@
     "hospital": "Bassetlaw Hosp",
     "department": "ED",
     "w3w": "spice.rally.stages"
+  },
+  {
+    "hospital": "Birmingham Children (BCH)",
+    "department": "Child ED",
+    "w3w": "racing.clots.wisdom"
   },
   {
     "hospital": "Birmingham Children (BCH)",
