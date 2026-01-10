@@ -31,7 +31,7 @@
   },
   {
     "hospital": "Birmingham Children (BCH)",
-    "department": "Main entrance",
+    "department": "*Main entrance",
     "w3w": "gangs.prompting.buck"
   },
   {
@@ -281,7 +281,12 @@
   },
   {
     "hospital": "Manchester Royal Infirmary (MRI)",
-    "department": "*Children",
+    "department": "*Children ED",
+    "w3w": "deals.hotels.clap"
+  },
+  {
+    "hospital": "Manchester Children (MCH)",
+    "department": "*Main entrance",
     "w3w": "retain.luck.liver"
   },
   {
@@ -385,8 +390,18 @@
     "w3w": "pace.stale.heap"
   },
   {
+    "hospital": "Queen's Hosp Burton (BUR)",
+    "department": "*Main entrance",
+    "w3w": "inch.proper.spot"
+  },
+  {
+    "hospital": "Queen's Hosp Burton (BUR)",
+    "department": "*Neonatal (door will lock evening)",
+    "w3w": "moment.spout.herb"
+  },
+  {
     "hospital": "Rainbows Hospice",
-    "department": "Entrance",
+    "department": "*Entrance",
     "w3w": "apaces.tailwind.master"
   },
   {
@@ -396,7 +411,7 @@
   },
   {
     "hospital": "Royal Derby Hosp (RDH)",
-    "department": "*ITU/ICU",
+    "department": "*ITU/ICU (Entrance 9)",
     "w3w": "moving.mile.weedy"
   },
   {
@@ -416,7 +431,7 @@
   },
   {
     "hospital": "Royal Papworth Hosp",
-    "department": "",
+    "department": "Entrance",
     "w3w": "radar.healers.solo"
   },
   {
@@ -441,7 +456,7 @@
   },
   {
     "hospital": "Sheffield Children's Hosp",
-    "department": "*Main entrance",
+    "department": "*Entrance",
     "w3w": "stop.hangs.shows"
   },
   {
