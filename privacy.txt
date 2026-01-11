@@ -1,0 +1,10 @@
+Privacy Policy for eJobsheet
+
+eJobsheet is an internal staff app. We collect:
+- Name (for temporary record)
+- Device ID (for app functionality)
+- Usage data (for app performance monitoring)
+
+All collected data is used only for internal purposes and is not shared with third parties.
+
+Contact: trailwalker901@gmail.com
