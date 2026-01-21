@@ -25,6 +25,11 @@
     "w3w": "spice.rally.stages"
   },
   {
+    "hospital": "Bassetlaw Hosp",
+    "department": "*Maternity",
+    "w3w": "scout.cage.scam"
+  },
+  {
     "hospital": "Birmingham Children (BCH)",
     "department": "Child ED",
     "w3w": "racing.clots.wisdom"
@@ -321,7 +326,7 @@
   },
   {
     "hospital": "New Cross Hosp (NCR)",
-    "department": "*Heart Centre",
+    "department": "*ICCU/Heart Centre",
     "w3w": "bliss.misty.amused"
   },
   {
