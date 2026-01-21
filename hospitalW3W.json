@@ -20,6 +20,11 @@
     "w3w": "fear.takes.bills"
   },
   {
+    "hospital": "Barnsley Hosp",
+    "department": "ED",
+    "w3w": "gossip.scuba.hails"
+  },
+  {
     "hospital": "Bassetlaw Hosp",
     "department": "ED",
     "w3w": "spice.rally.stages"
@@ -28,6 +33,11 @@
     "hospital": "Bassetlaw Hosp",
     "department": "*Maternity",
     "w3w": "scout.cage.scam"
+  },
+  {
+    "hospital": "Birmingham Airport",
+    "department": "*Signature Lounge",
+    "w3w": "police.horn.coins"
   },
   {
     "hospital": "Birmingham Children (BCH)",
@@ -141,8 +151,13 @@
   },
   {
     "hospital": "Good Hope (GHH)",
-    "department": "ITU",
+    "department": "*ED/ITU",
     "w3w": "since.pies.buzz"
+  },
+  {
+    "hospital": "Good Hope (GHH)",
+    "department": "*Neonatal",
+    "w3w": "this.expert.count"
   },
   {
     "hospital": "Grantham Hosp",
@@ -281,7 +296,7 @@
   },
   {
     "hospital": "Luton & Dunstable University Hosp (LDUH)",
-    "department": "*Neonatal",
+    "department": "*Neonatal/NICU",
     "w3w": "shave.yards.print"
   },
   {
@@ -390,6 +405,11 @@
     "w3w": "monks.riots.puzzle"
   },
   {
+    "hospital": "Queens Medical Centre (QMC)",
+    "department": "*Helicopter pad",
+    "w3w": "trout.struck.hotel"
+  },
+  {
     "hospital": "Queen's Hosp Burton (BUR)",
     "department": "*ED",
     "w3w": "pace.stale.heap"
@@ -445,6 +465,11 @@
     "w3w": "stras.pilots.shaky"
   },
   {
+    "hospital": "Royal Stoke University Hosp (RSUH)",
+    "department": "*NICU/Maternity",
+    "w3w": "cute.dash.proven"
+  },
+  {
     "hospital": "Royal Wolverhampton Hosp",
     "department": "Children",
     "w3w": "ships.transfers.spin"
@@ -468,6 +493,11 @@
     "hospital": "Sheffield Jessops Hosp (JESS)",
     "department": "*Maternity",
     "w3w": "enable.moods.sofa"
+  },
+  {
+    "hospital": "Stansted Airport",
+    "department": "*Inflite Jet Centre",
+    "w3w": "serenade.rescue.tape"
   },
   {
     "hospital": "St Georges's Hosp (STGH)",
