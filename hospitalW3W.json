@@ -505,7 +505,7 @@
     "w3w": "crops.speech.incomes"
   },
   {
-    "hospital": "St Michael's Hosp (STGH)",
+    "hospital": "St Michael's Hosp (UHBS)",
     "department": "*Main entrance",
     "w3w": "stack.normal.list"
   },
