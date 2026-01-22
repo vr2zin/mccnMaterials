@@ -150,11 +150,6 @@
     "w3w": "caged.firms.forced"
   },
   {
-    "hospital": "Glenfield Hosp (GLE)",
-    "department": "Hospital Map",
-    "w3w": "https://www.uhleicester.nhs.uk/wp-content/uploads/2025/03/Glenfield-Hospital-map-Feb-2025.pdf"
-  },
-  {
     "hospital": "Good Hope (GHH)",
     "department": "*ED/ITU",
     "w3w": "since.pies.buzz"
