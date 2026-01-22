@@ -505,6 +505,11 @@
     "w3w": "crops.speech.incomes"
   },
   {
+    "hospital": "St Michael's Hosp (STGH)",
+    "department": "*Main entrance",
+    "w3w": "stack.normal.list"
+  },
+  {
     "hospital": "Stoke Mandeville Hosp (SMVH)",
     "department": "*ED/ITU/HDU",
     "w3w": "liner.taped.relate"
