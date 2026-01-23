@@ -220,6 +220,11 @@
     "w3w": "toward.windy.normal"
   },
   {
+    "hospital": "Leeds General Infirmary (LGI)",
+    "department": "*ED/ITU",
+    "w3w": "chief.volume.winks"
+  },
+  {
     "hospital": "Queen Elizabeth Kings Lynn (QEKL)",
     "department": "*Main entrance",
     "w3w": "jubilant.motor.lost"
@@ -503,6 +508,11 @@
     "hospital": "St Georges's Hosp (STGH)",
     "department": "*Neonatal",
     "w3w": "crops.speech.incomes"
+  },
+  {
+    "hospital": "St James's Hosp (SJUH)",
+    "department": "*ED",
+    "w3w": "price.fall.encounter"
   },
   {
     "hospital": "St Michael's Hosp (UHBS)",
