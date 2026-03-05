@@ -256,7 +256,7 @@
   },
   {
     "hospital": "Leicester Royal Infirmary (LRI)",
-    "department": "*NICU",
+    "department": "*NICU/PCICU",
     "w3w": "taken.feeds.loves"
   },
   {
