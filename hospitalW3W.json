@@ -285,6 +285,11 @@
     "w3w": "pushed.pays.port"
   },
   {
+    "hospital": "Lincoln County Hosp (LCH)",
+    "department": "*CCU",
+    "w3w": "harsh.care.ties"
+  },
+  {
     "hospital": "Lister Hosp (LIST)",
     "department": "NICU",
     "w3w": "form.defend.sculpture"
