@@ -380,6 +380,11 @@
     "w3w": "tell.handed.table"
   },
   {
+    "hospital": "Park Hosp",
+    "department": "*ITU",
+    "w3w": "chucks.oasis.houseboat"
+  },
+  {
     "hospital": "Peterborough City Hosp (PET)",
     "department": "ITU",
     "w3w": "valid.liability.period"
@@ -403,6 +408,11 @@
     "hospital": "Pilgrim Hosp Boston (PIL)",
     "department": "*Main entrance",
     "w3w": "cones.voices.limbs"
+  },
+  {
+    "hospital": "Pinderfields Hosp",
+    "department": "*Neonatal",
+    "w3w": "longer.cloak.nerve"
   },
   {
     "hospital": "Princess Royal Telford (PRT)",
