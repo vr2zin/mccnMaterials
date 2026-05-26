@@ -375,6 +375,11 @@
     "w3w": "charm.porch.advice"
   },
   {
+    "hospital": "Northern General Hosp",
+    "department": "*Spinal Rehab Unit",
+    "w3w": "nails.brass.closed"
+  },
+  {
     "hospital": "Northumbria Specialist",
     "department": "*Theatre/CCU",
     "w3w": "tell.handed.table"
