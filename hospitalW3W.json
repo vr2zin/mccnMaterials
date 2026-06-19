@@ -501,12 +501,12 @@
   },
   {
     "hospital": "Russells Hall Hosp (RUS)",
-    "department": "Maternity",
+    "department": "*Maternity",
     "w3w": "icons.engage.losses"
   },
   {
     "hospital": "Russells Hall Hosp (RUS)",
-    "department": "ICU",
+    "department": "*ICU",
     "w3w": "smiled.ritual.spine"
   },
   {
