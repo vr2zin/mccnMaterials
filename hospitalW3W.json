@@ -505,6 +505,11 @@
     "w3w": "icons.engage.losses"
   },
   {
+    "hospital": "Russells Hall Hosp (RUS)",
+    "department": "ICU",
+    "w3w": "smiled.ritual.spine"
+  },
+  {
     "hospital": "Scunthrope General Hosp (SCU)",
     "department": "ECMO/ICU",
     "w3w": "beam.invest.listed"
